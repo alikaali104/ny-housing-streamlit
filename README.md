@@ -2,7 +2,7 @@
 
 A data visualization project using **Streamlit**, built as part of the CS230 course.
 
-🔗 Live App: [Click to View](https://cs230-final-project-kfblb7mdq5rmoybsgpxobk.streamlit.app/)
+🔗 Live App: [Click to View]([https://cs230-final-project-kfblb7mdq5rmoybsgpxobk.streamlit.app/](https://ny-housing-app-bgyswre9s6gv7jphagbsbj.streamlit.app))
 
 ## 📊 Features
 
